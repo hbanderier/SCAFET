@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/scafet/__init__.py
+src/scafet/object_filtering.py
+src/scafet/object_properties.py
+src/scafet/object_tracking.py
+src/scafet/ridge_detection.py
+src/scafet.egg-info/PKG-INFO
+src/scafet.egg-info/SOURCES.txt
+src/scafet.egg-info/dependency_links.txt
+src/scafet.egg-info/top_level.txt

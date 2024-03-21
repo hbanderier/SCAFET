@@ -1,0 +1,18 @@
+[project]
+name = "scafet"
+version = "1.0.0"
+authors = [
+  { name="Arjun Babu Nellikkattil", email="arjunbabun@pusan.ac.kr" },
+]
+description = "SCAFET"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/nbarjun/SCAFET"
+Issues = "https://github.com/nbarjun/SCAFET/issues"
